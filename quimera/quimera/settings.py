@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # apps propias
+    'applications.home',
     'applications.placabase',
 ]
 
