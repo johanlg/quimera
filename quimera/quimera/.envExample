@@ -1,4 +1,4 @@
-SECRET_KEY='django-insecure-06sb-^l*4db%iu99k!o25vj*1wukfedwc_3)s30^gb@jm*h5lc'
+SECRET_KEY=<SECRET_KEY>
 
 POSTGRESQL_NAME=<posgresql_database>
 POSTGRESQL_USER=<posgresql_user>
